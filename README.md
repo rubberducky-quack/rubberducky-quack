@@ -22,5 +22,9 @@
 
 ---
 
+![Snake animation](https://github.com/rubberducky-quack/rubberducky-quack/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <!-- https://capsule-render.vercel.app -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bye%20Bye&reversal=false&section=footer&fontAlignY=50&textBg=false)
