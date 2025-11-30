@@ -18,5 +18,9 @@
 
 ---
 
+[![rubberducky-quack's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubberducky-quack)](https://github.com/rubberducky-quack/github-readme-stats)
+
+---
+
 <!-- https://capsule-render.vercel.app -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bye%20Bye&reversal=false&section=footer&fontAlignY=50&textBg=false)
