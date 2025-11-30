@@ -1,16 +1,22 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🦆%20M0IN%20🐛&reversal=false&section=header&animation=twinkling&fontAlignY=50&textBg=false)
 
-<!--
-**rubberducky-quack/rubberducky-quack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Facts
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubberducky-quack&theme=tokyonight" alt="rubberducky-quack's GitHub streak" />
+</p>
+
+<p align="center">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rubberducky-quack&theme=tokyonight" alt="Trophies" />
+</p>
+
+---
+
+<!-- https://capsule-render.vercel.app -->
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bye%20Bye&reversal=false&section=footer&fontAlignY=50&textBg=false)
