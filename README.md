@@ -29,7 +29,7 @@
 
 ---
 
-![Snake animation](https://github.com/rubberducky-quack/rubberducky-quack/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rubberducky-quack/rubberducky-quack/output/github-contribution-grid-snake.svg)
 
 ---
 
