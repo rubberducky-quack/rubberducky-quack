@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🦆%20M0IN%20🐛&reversal=false&section=header&animation=twinkling&fontAlignY=50&textBg=false)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🦆%20M0IN%20🐛&reversal=false&section=header&animation=twinkling&fontAlignY=50&textBg=false)
 
 # Hi 👋, I'm rubberducky-quack
 
@@ -34,13 +34,13 @@
         <li>🔭 I'm currently working on <b>exciting projects</b></li>
         <li>🌱 I'm constantly learning <b>new technologies</b></li>
         <li>💬 Ask me about <b>Java, Python, React & more</b></li>
-        <li>🎯 Goal:  <b>Contributing to Open Source</b></li>
-        <li>🦆 Quack quack! </li>
+        <li>🎯 Goal: <b>Contributing to Open Source</b></li>
+        <li>🦆 Quack quack!</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats. vercel.app/api?username=rubberducky-quack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rubberducky-quack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -53,10 +53,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=rubberducky-quack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberducky-quack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp. com/?user=rubberducky-quack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubberducky-quack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -71,15 +71,15 @@
 ### 💻 Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark. svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark. svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original. svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original. svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -95,8 +95,8 @@
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original. svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original. svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
 </p>
@@ -108,11 +108,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme:  dark)" srcset="https://raw.githubusercontent.com/rubberducky-quack/rubberducky-quack/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme:  light)" srcset="https://raw.githubusercontent.com/rubberducky-quack/rubberducky-quack/output/github-contribution-grid-snake. svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/rubberducky-quack/rubberducky-quack/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/rubberducky-quack/rubberducky-quack/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
@@ -121,10 +117,14 @@
 
 ### 🤝 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000? style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubberducky-quack)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubberducky-quack)
 
 </div>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api? type=waving&height=150&color=gradient&text=Thanks%20for%20visiting! %20🦆&reversal=false&section=footer&fontAlignY=65&textBg=false&fontSize=30)
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visiting!%20🦆&reversal=false&section=footer&fontAlignY=65&textBg=false&fontSize=30)
+
+</div>
