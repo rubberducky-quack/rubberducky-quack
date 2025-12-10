@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rubberducky-quack&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rubberducky-quack&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -40,7 +40,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=rubberducky-quack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rubberducky-quack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -52,11 +52,11 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberducky-quack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberducky-quack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubberducky-quack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubberducky-quack&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
