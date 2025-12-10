@@ -40,7 +40,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=rubberducky-quack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rubberducky-quack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberducky-quack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubberducky-quack&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com?user=rubberducky-quack&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
