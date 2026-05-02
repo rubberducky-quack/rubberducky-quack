@@ -2,13 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🦆%20M0IN%20🐛&reversal=false&section=header&animation=twinkling&fontAlignY=50&textBg=false)
 
-# Hi 👋, I'm rubberducky-quack
+# Hi, I'm rubberducky-quack
 
 ### A passionate universal vibe developer
 
 <img src="https://komarev.com/ghpvc/?username=rubberducky-quack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-⚡ **Fun fact:** I'm not from India
 
 </div>
 
@@ -29,78 +28,28 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 About Me</h3>
+      <h3>About Me</h3>
       <ul>
-        <li>🔭 I'm currently working on <b>exciting projects</b></li>
-        <li>🌱 I'm constantly learning <b>new technologies</b></li>
-        <li>💬 Ask me about <b>Java, Python, React & more</b></li>
-        <li>🎯 Goal: <b>Contributing to Open Source</b></li>
+        <li>🔭 I'm interested in ML, CV, Data Analysis</li>
         <li>🦆 Quack quack!</li>
       </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=rubberducky-quack&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 More Stats
+
+
+### 💻 Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberducky-quack&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=rubberducky-quack&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-</p>
-
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
 ---
