@@ -2,8 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=M0IN&reversal=false&section=header&animation=twinkling&fontAlignY=50&textBg=false)
 
-# Hi, I'm rubberducky-quack
-
+# Hi, I'm 
+<pre>
+          _    _               _          _                                _    
+         ( )  ( )             ( )        ( )                              ( )   
+ __  _ _ | |_ | |_  ___  __  _| | _ _  __| | _ _ _  ___  ___  _ _  ___  __| | _ 
+( _)( U )( o \( o \( o_)( _)/ o )( U )/ /( _'(( V )(___)/ o )( U )( o )/ /( _'( 
+/_\ /___\/___//___/ \(  /_\ \___\/___\\_\/_\\_|) /      \__ \/___\/_^_\\_\/_\\_|
+                                              /_/         |_|                   
+</pre>
 ### Computer Science Student | Mathematics Tutor @ Reutlingen University
 
 <img src="https://komarev.com/ghpvc/?username=rubberducky-quack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
