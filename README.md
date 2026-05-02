@@ -4,7 +4,7 @@
 
 # Hi, I'm rubberducky-quack
 
-### A passionate universal vibe developer
+### CS Student and Math Tutor at Reutlingen University
 
 <img src="https://komarev.com/ghpvc/?username=rubberducky-quack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
