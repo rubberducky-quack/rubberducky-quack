@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=M0IN&reversal=false&section=header&animation=twinkling&fontAlignY=50&textBg=false)
 
-# Hi, I'm 
+# I'm 
 <pre>
           _    _               _          _                                _    
          ( )  ( )             ( )        ( )                              ( )   
@@ -31,54 +31,13 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
 
 ## [ Highlighted Projects ]
 
-
 <table>
-  <!-- Projekt 1: Towerdefense -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>Towerdefense CS 3: Strategic Pathfinding Game</h3>
-      <br>
-      Q1 2026 | INF Faculty HSRT
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/Towerdefense_CS_3">
-        <img src="https://img.shields.io/badge/rubberducky--quack-Towerdefense__CS__3-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      A strategic tower defense game featuring dynamic pathfinding, resource management, and multiple enemy types. Developed with a focus on object-oriented architecture and efficient memory management.
-      <br><br>
-      <sub>Java, C++, Object-Oriented Programming</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <img src="LINK_ZU_DEINEM_BILD_1.png" width="100%" alt="Project Visual" />
-    </td>
-  </tr>
-
-  <!-- Projekt 2: Pokemon Analyse -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>Pokémon Data Science: Statistical Type Analysis</h3>
-      <br>
-      Q4 2025 | INF Faculty HSRT
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/pokemon_analyse">
-        <img src="https://img.shields.io/badge/rubberducky--quack-pokemon__analyse-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      Statistical analysis and visualization of Pokémon data to uncover design patterns and combat mechanics. Includes data cleaning, distribution analysis, and ggplot2 visualisations.
-      <br><br>
-      <sub>R, Tidyverse, Data Visualization, Data Cleaning</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <img src="LINK_ZU_DEINEM_BILD_2.png" width="100%" alt="Project Visual" />
-    </td>
-  </tr>
-
   <!-- Projekt 3: Bird Drone -->
   <tr>
     <td width="75%" valign="top">
       <h3>Bird Drone: Flight Controller and Simulation</h3>
       <br>
-      Q3 2025 | INF Faculty HSRT
+      SoSe 26 | INF Faculty HSRT
       <br><br>
       <a href="https://github.com/rubberducky-quack/bird_drone">
         <img src="https://img.shields.io/badge/rubberducky--quack-bird__drone-2b3137?logo=github&style=flat-square" alt="Repo" />
@@ -89,47 +48,7 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
       <sub>C++, Python, Physics Simulation</sub>
     </td>
     <td width="25%" valign="top" align="center">
-      <img src="LINK_ZU_DEINEM_BILD_3.png" width="100%" alt="Project Visual" />
-    </td>
-  </tr>
-
-  <!-- Projekt 4: MyNeuralNetwork -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>MyNeuralNetwork: Custom Deep Learning Framework</h3>
-      <br>
-      Q2 2025 | Personal Project
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/MyNeuralNetwork">
-        <img src="https://img.shields.io/badge/rubberducky--quack-MyNeuralNetwork-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      A scratch-built neural network implementation designed to understand the underlying mathematics of deep learning, including forward propagation, backpropagation, and gradient descent.
-      <br><br>
-      <sub>Python, NumPy, Machine Learning, Linear Algebra</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <img src="LINK_ZU_DEINEM_BILD_4.png" width="100%" alt="Project Visual" />
-    </td>
-  </tr>
-
-  <!-- Projekt 5: Pai-Sho -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>Pai-Sho: Digital Board Game Implementation</h3>
-      <br>
-      Q1 2025 | INF Faculty HSRT
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/Pai-Sho">
-        <img src="https://img.shields.io/badge/rubberducky--quack-Pai--Sho-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      A complete digital adaptation of the Pai-Sho board game. Features rule validation, turn-based state management, and an interactive graphical user interface.
-      <br><br>
-      <sub>Java, GUI Framework, State Management</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <img src="LINK_ZU_DEINEM_BILD_5.png" width="100%" alt="Project Visual" />
+      <!-- <img src="LINK_ZU_DEINEM_BILD_3.png" width="100%" alt="Project Visual" /> -->
     </td>
   </tr>
 
@@ -138,7 +57,7 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
     <td width="75%" valign="top">
       <h3>AI Roundtable: Multi-Agent System Simulation</h3>
       <br>
-      Q4 2024 | Personal Project
+      WS 25/26 | Personal Project
       <br><br>
       <a href="https://github.com/rubberducky-quack/AI-Roundtable">
         <img src="https://img.shields.io/badge/rubberducky--quack-AI--Roundtable-2b3137?logo=github&style=flat-square" alt="Repo" />
@@ -149,10 +68,92 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
       <sub>Python, API Integration, Prompt Engineering, LLMs</sub>
     </td>
     <td width="25%" valign="top" align="center">
-      <img src="LINK_ZU_DEINEM_BILD_6.png" width="100%" alt="Project Visual" />
+      <!-- <img src="LINK_ZU_DEINEM_BILD_6.png" width="100%" alt="Project Visual" /> -->
+    </td>
+  </tr>
+
+  <!-- Projekt 4: MyNeuralNetwork -->
+  <tr>
+    <td width="75%" valign="top">
+      <h3>MyNeuralNetwork: Custom Deep Learning Framework</h3>
+      <br>
+      WS 25/26 | Personal Project
+      <br><br>
+      <a href="https://github.com/rubberducky-quack/MyNeuralNetwork">
+        <img src="https://img.shields.io/badge/rubberducky--quack-MyNeuralNetwork-2b3137?logo=github&style=flat-square" alt="Repo" />
+      </a>
+      <br><br>
+      A scratch-built neural network implementation designed to understand the underlying mathematics of deep learning, including forward propagation, backpropagation, and gradient descent.
+      <br><br>
+      <sub>Python, NumPy, Machine Learning, Linear Algebra</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <!-- <img src="LINK_ZU_DEINEM_BILD_4.png" width="100%" alt="Project Visual" /> -->
+    </td>
+  </tr>
+
+  <!-- Projekt 2: Pokemon Analyse -->
+  <tr>
+    <td width="75%" valign="top">
+      <h3>Pokémon Data Science: Statistical Type Analysis</h3>
+      <br>
+      WS 25/26 | INF Faculty HSRT
+      <br><br>
+      <a href="https://github.com/rubberducky-quack/pokemon_analyse">
+        <img src="https://img.shields.io/badge/rubberducky--quack-pokemon__analyse-2b3137?logo=github&style=flat-square" alt="Repo" />
+      </a>
+      <br><br>
+      Statistical analysis and visualization of Pokémon data to uncover design patterns and combat mechanics. Includes data cleaning, distribution analysis, and ggplot2 visualisations.
+      <br><br>
+      <sub>R, Tidyverse, Data Visualization, Data Cleaning</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <!-- <img src="LINK_ZU_DEINEM_BILD_2.png" width="100%" alt="Project Visual" /> -->
+    </td>
+  </tr>
+
+  <!-- Projekt 1: Towerdefense -->
+  <tr>
+    <td width="75%" valign="top">
+      <h3>Towerdefense CS 3: Strategic Pathfinding Game</h3>
+      <br>
+      WS 25/26 | INF Faculty HSRT
+      <br><br>
+      <a href="https://github.com/rubberducky-quack/Towerdefense_CS_3">
+        <img src="https://img.shields.io/badge/rubberducky--quack-Towerdefense__CS__3-2b3137?logo=github&style=flat-square" alt="Repo" />
+      </a>
+      <br><br>
+      A strategic tower defense game featuring dynamic pathfinding, resource management, and multiple enemy types. Developed with a focus on object-oriented architecture and efficient memory management.
+      <br><br>
+      <sub>Java, C++, Object-Oriented Programming</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <!-- <img src="LINK_ZU_DEINEM_BILD_1.png" width="100%" alt="Project Visual" /> -->
+    </td>
+  </tr>
+
+  <!-- Projekt 5: Pai-Sho -->
+  <tr>
+    <td width="75%" valign="top">
+      <h3>Pai-Sho: Digital Board Game Implementation</h3>
+      <br>
+      SoSe 25 | INF Faculty HSRT
+      <br><br>
+      <a href="https://github.com/rubberducky-quack/Pai-Sho">
+        <img src="https://img.shields.io/badge/rubberducky--quack-Pai--Sho-2b3137?logo=github&style=flat-square" alt="Repo" />
+      </a>
+      <br><br>
+      A complete digital adaptation of the Pai-Sho board game. Features rule validation, turn-based state management, and an interactive graphical user interface.
+      <br><br>
+      <sub>Java, GUI Framework, State Management</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <!-- <img src="LINK_ZU_DEINEM_BILD_5.png" width="100%" alt="Project Visual" /> -->
     </td>
   </tr>
 </table>
+
+
 ---
 
 ## [ Tech Stack ]
