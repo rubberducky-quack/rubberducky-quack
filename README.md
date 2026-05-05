@@ -35,7 +35,7 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
   <!-- Projekt 3: Bird Drone -->
   <tr>
     <td width="75%" valign="top">
-      <h3>Bird Drone: Flight Controller and Simulation</h3>
+      <h3>Bird Drone: YOLO image classification and object distance estimation</h3>
       <br>
       SoSe 26 | INF Faculty HSRT
       <br><br>
@@ -43,7 +43,7 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
         <img src="https://img.shields.io/badge/rubberducky--quack-bird__drone-2b3137?logo=github&style=flat-square" alt="Repo" />
       </a>
       <br><br>
-      Development of flight control mechanics or simulation software for a drone mimicking avian flight patterns. Focus on physics calculations and real-time sensor processing.
+      Custom YOLO model for bird/ drone distinction, using two cameras for depth/distance estimation via disparity.
       <br><br>
       <sub>C++, Python, Physics Simulation</sub>
     </td>
@@ -55,7 +55,7 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
   <!-- Projekt 6: AI-Roundtable -->
   <tr>
     <td width="75%" valign="top">
-      <h3>AI Roundtable: Multi-Agent System Simulation</h3>
+      <h3>AI Roundtable: Multi-Modell Idea evaluation</h3>
       <br>
       WS 25/26 | Personal Project
       <br><br>
@@ -63,7 +63,7 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
         <img src="https://img.shields.io/badge/rubberducky--quack-AI--Roundtable-2b3137?logo=github&style=flat-square" alt="Repo" />
       </a>
       <br><br>
-      An experimental multi-agent environment where different AI models or algorithmic agents interact and discuss specific topics. Explores prompt engineering and agent-to-agent communication.
+      An experimental multi-modell environment where different AI models interact and discuss specific topics. Explores prompt engineering and agent-to-agent communication.
       <br><br>
       <sub>Python, API Integration, Prompt Engineering, LLMs</sub>
     </td>
@@ -75,7 +75,7 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
   <!-- Projekt 4: MyNeuralNetwork -->
   <tr>
     <td width="75%" valign="top">
-      <h3>MyNeuralNetwork: Custom Deep Learning Framework</h3>
+      <h3>MyNeuralNetwork: Custom Deep Learning Framework/ Vector Embedding</h3>
       <br>
       WS 25/26 | Personal Project
       <br><br>
@@ -83,7 +83,7 @@ Currently, I am looking for opportunities to apply my knowledge in real-world da
         <img src="https://img.shields.io/badge/rubberducky--quack-MyNeuralNetwork-2b3137?logo=github&style=flat-square" alt="Repo" />
       </a>
       <br><br>
-      A scratch-built neural network implementation designed to understand the underlying mathematics of deep learning, including forward propagation, backpropagation, and gradient descent.
+      A scratch-built neural network implementation designed to understand the underlying mathematics of deep learning, including forward propagation, backpropagation, and gradient descent. Implemented vector embeddings (Embedding Models) for experimental data vis. and exploration.
       <br><br>
       <sub>Python, NumPy, Machine Learning, Linear Algebra</sub>
     </td>
