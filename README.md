@@ -1,199 +1,81 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=M0IN&reversal=false&section=header&animation=twinkling&fontAlignY=50&textBg=false)
-
-# I'm 
-<pre>
-          _    _               _          _                                _    
-         ( )  ( )             ( )        ( )                              ( )   
- __  _ _ | |_ | |_  ___  __  _| | _ _  __| | _ _ _  ___  ___  _ _  ___  __| | _ 
-( _)( U )( o \( o \( o_)( _)/ o )( U )/ /( _'(( V )(___)/ o )( U )( o )/ /( _'( 
-/_\ /___\/___//___/ \(  /_\ \___\/___\\_\/_\\_|) /      \__ \/___\/_^_\\_\/_\\_|
-                                              /_/         |_|                   
-</pre>
-### Computer Science Student | Mathematics Tutor @ Reutlingen University
-
-<img src="https://komarev.com/ghpvc/?username=rubberducky-quack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
+          
+# M0IN
+ 
+**Computer Science Student @ Reutlingen University (HSRT)**
+Machine Learning · Computer Vision · From-scratch Systems
+ 
+<a href="https://github.com/rubberducky-quack"><img src="https://img.shields.io/badge/GitHub-rubberducky--quack-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:Gianni.Caputo@Student.Reutlingen-University.DE"><img src="https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/gianni-caputo"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+ 
 </div>
 
 ---
-
-## [ About Me ]
-
-I am a Computer Science student with a strong focus on **Machine Learning, Computer Vision, and Data Analysis**. My background as a Mathematics tutor helps me tackle complex algorithmic challenges with an analytical mindset. 
-
-Currently, I am looking for opportunities to apply my knowledge in real-world data science and software engineering projects. 
-
-
-
+ 
+## About
+ 
+CS student focused on **machine learning, computer vision, and data analysis**. I work as a **mathematics tutor** at HSRT, which is where most of my instinct for breaking problems down comes from — I'd rather implement backpropagation from scratch than import it.
+ 
+- Currently: preparing for a 6-month industry internship in **non-destructive testing / industrial computer vision** (from Sept 2026)
+- Interested in: thermography-based defect detection, stereo vision, and applied deep learning
+- Open to: working-student positions and research-adjacent collaboration
 ---
-
-## [ Highlighted Projects ]
-
-<table>
-  <!-- Projekt 3: Bird Drone -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>Bird Drone: YOLO image classification and object distance estimation</h3>
-      <br>
-      SoSe 26 | INF Faculty HSRT
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/bird_drone">
-        <img src="https://img.shields.io/badge/rubberducky--quack-bird__drone-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      Custom YOLO model for bird/ drone distinction, using two cameras for depth/distance estimation via disparity.
-      <br><br>
-      <sub>C++, Python, Physics Simulation</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <!-- <img src="LINK_ZU_DEINEM_BILD_3.png" width="100%" alt="Project Visual" /> -->
-    </td>
-  </tr>
-
-  <!-- Projekt 6: AI-Roundtable -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>AI Roundtable: Multi-Modell Idea evaluation</h3>
-      <br>
-      WS 25/26 | Personal Project
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/AI-Roundtable">
-        <img src="https://img.shields.io/badge/rubberducky--quack-AI--Roundtable-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      An experimental multi-modell environment where different AI models interact and discuss specific topics. Explores prompt engineering and agent-to-agent communication.
-      <br><br>
-      <sub>Python, API Integration, Prompt Engineering, LLMs</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <!-- <img src="LINK_ZU_DEINEM_BILD_6.png" width="100%" alt="Project Visual" /> -->
-    </td>
-  </tr>
-
-  <!-- Projekt 4: MyNeuralNetwork -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>MyNeuralNetwork: Custom Deep Learning Framework/ Vector Embedding</h3>
-      <br>
-      WS 25/26 | Personal Project
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/MyNeuralNetwork">
-        <img src="https://img.shields.io/badge/rubberducky--quack-MyNeuralNetwork-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      A scratch-built neural network implementation designed to understand the underlying mathematics of deep learning, including forward propagation, backpropagation, and gradient descent. Implemented vector embeddings (Embedding Models) for experimental data vis. and exploration.
-      <br><br>
-      <sub>Python, NumPy, Machine Learning, Linear Algebra</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <!-- <img src="LINK_ZU_DEINEM_BILD_4.png" width="100%" alt="Project Visual" /> -->
-    </td>
-  </tr>
-
-  <!-- Projekt 2: Pokemon Analyse -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>Pokémon Data Science: Statistical Type Analysis</h3>
-      <br>
-      WS 25/26 | INF Faculty HSRT
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/pokemon_analyse">
-        <img src="https://img.shields.io/badge/rubberducky--quack-pokemon__analyse-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      Statistical analysis and visualization of Pokémon data to uncover design patterns and combat mechanics. Includes data cleaning, distribution analysis, and ggplot2 visualisations.
-      <br><br>
-      <sub>R, Tidyverse, Data Visualization, Data Cleaning</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <!-- <img src="LINK_ZU_DEINEM_BILD_2.png" width="100%" alt="Project Visual" /> -->
-    </td>
-  </tr>
-
-  <!-- Projekt 1: Towerdefense -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>Towerdefense CS 3: Strategic Pathfinding Game</h3>
-      <br>
-      WS 25/26 | INF Faculty HSRT
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/Towerdefense_CS_3">
-        <img src="https://img.shields.io/badge/rubberducky--quack-Towerdefense__CS__3-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      A strategic tower defense game featuring dynamic pathfinding, resource management, and multiple enemy types. Developed with a focus on object-oriented architecture and efficient memory management.
-      <br><br>
-      <sub>Java, C++, Object-Oriented Programming</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <!-- <img src="LINK_ZU_DEINEM_BILD_1.png" width="100%" alt="Project Visual" /> -->
-    </td>
-  </tr>
-
-  <!-- Projekt 5: Pai-Sho -->
-  <tr>
-    <td width="75%" valign="top">
-      <h3>Pai-Sho: Digital Board Game Implementation</h3>
-      <br>
-      SoSe 25 | INF Faculty HSRT
-      <br><br>
-      <a href="https://github.com/rubberducky-quack/Pai-Sho">
-        <img src="https://img.shields.io/badge/rubberducky--quack-Pai--Sho-2b3137?logo=github&style=flat-square" alt="Repo" />
-      </a>
-      <br><br>
-      A complete digital adaptation of the Pai-Sho board game. Features rule validation, turn-based state management, and an interactive graphical user interface.
-      <br><br>
-      <sub>Java, GUI Framework, State Management</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <!-- <img src="LINK_ZU_DEINEM_BILD_5.png" width="100%" alt="Project Visual" /> -->
-    </td>
-  </tr>
-</table>
-
-
----
-
-## [ Tech Stack ]
-
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div>
-
----
-
-## [ Activity & Stats ]
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rubberducky-quack/rubberducky-quack/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
+ 
+## Featured Projects
+ 
+### [bird_drone](https://github.com/rubberducky-quack/bird_drone) — Bird/Drone Classification & Distance Estimation
+`SoSe 26 · HSRT` &nbsp; `C++` `Python` `YOLO`
+ 
+Custom-trained YOLO model that distinguishes birds from drones, paired with a two-camera setup that estimates target distance from stereo disparity. Includes a physics-based simulation for generating and validating test scenarios.
+ 
+### [MyNeuralNetwork](https://github.com/rubberducky-quack/MyNeuralNetwork) — Deep Learning Framework from Scratch
+`WS 25/26 · Personal` &nbsp; `Python` `NumPy`
+ 
+A neural network library built without ML frameworks: forward propagation, backpropagation, and gradient descent implemented directly from the underlying linear algebra. Extended with vector embeddings for experimental data visualisation and exploration.
+ 
+### [AI-Roundtable](https://github.com/rubberducky-quack/AI-Roundtable) — Multi-Model Idea Evaluation
+`WS 25/26 · Personal` &nbsp; `Python` `LLM APIs`
+ 
+An experimental environment where several LLMs debate a given topic and critique each other's reasoning. A testbed for prompt engineering and agent-to-agent communication patterns.
+ 
+<details>
+<summary><b>More projects</b></summary>
 <br>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rubberducky-quack&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [pokemon_analyse](https://github.com/rubberducky-quack/pokemon_analyse) | Statistical analysis of Pokémon type and stat distributions to uncover balance patterns. Data cleaning, distribution analysis, ggplot2 visualisation. | R, tidyverse |
+| [Towerdefense_CS_3](https://github.com/rubberducky-quack/Towerdefense_CS_3) | Tower defense game with dynamic pathfinding, resource management, and multiple enemy types. Focus on OO architecture and memory management. | Java, C++ |
+| [Pai-Sho](https://github.com/rubberducky-quack/Pai-Sho) | Digital adaptation of the Pai-Sho board game: full rule validation, turn-based state management, interactive GUI. | Java |
+ 
+</details>
 ---
-
+ 
+## Tech
+ 
+**Languages**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+ 
+**ML & Data**
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=rstudio&logoColor=75AADB" alt="tidyverse" />
+ 
+**Tools**
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+ 
+---
+ 
 <div align="center">
-
-### [ Let's Connect ]
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubberducky-quack)
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20visiting!&reversal=false&section=footer&fontAlignY=65&textBg=false&fontSize=30)
 
 </div>
