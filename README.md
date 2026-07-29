@@ -4,7 +4,7 @@
 
 **Computer Science Student @ Reutlingen University (HSRT)**
 
-Machine Learning · Computer Vision · From-scratch Systems
+Machine Learning · Computer Vision
 
 <br>
 
